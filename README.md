@@ -1,4 +1,4 @@
-**PDO dokumentace - Kávovar **
+**PDO dokumentace - Kávovar**
 
 ***Zákazník - manuál***
 - Přijít k automatu

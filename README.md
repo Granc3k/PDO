@@ -20,3 +20,13 @@
           - Instantní káva a další přísady: Otevřete příslušné zásobníky a nasypte do nich instantní kávu, mléčný prášek, cukr či jiné ingredience podle potřeby. Ujistěte se, že používáte správné množství a typ surovin doporučený výrobcem.
 - Uzavření automatu: Po doplnění všech surovin zavřete a zajistěte přední panel automatu.
 - Zapnutí: Připojte automat zpět k elektrické síti a zapněte jej.
+
+***Údržbář - manuál***
+- Vypnutí: Před zahájením doplňování vypněte automat a odpojte jej od elektrické sítě, aby nedošlo k úrazu elektrickým proudem.
+- Otevření automatu: Pomocí klíče nebo speciálního nástroje otevřete přední panel automatu, abyste získali přístup k zásobníkům na suroviny.
+- Údržba: Proveďte kontrolu systémů výroby a podávání nápoje, zkontrolujte opotřebení dílů. Velmi poškozené vyměňte, opotřebené poznamejte do zprávy pro příští bližší kontrolu.
+  - Zkontrolujte funkčnost vyměněných nebo opravených dílů
+  - Pokud oprava v terénu nebyla dostatečná, nahlašte závadu nadřízenému a ten zařídí převoz automatu do servisního střediska
+- Uzavření automatu: Po doplnění všech surovin zavřete a zajistěte přední panel automatu.
+- Zapnutí: Připojte automat zpět k elektrické síti a zapněte jej.
+

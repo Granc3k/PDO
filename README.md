@@ -41,6 +41,7 @@ Denní čištění:
 - Vyprázdněte a vyčistěte odkapávací mřížku a zásobník na odpad.
 - Otřete vnější plochy kávovaru vlhkým hadříkem.
 - Zkontrolujte hladinu vody (pokud je to vaše povinnost) a případně doplňte.
+
 Týdenní čištění:
 - Otřete místa, kde se mohou hromadit nečistoty, dle pokynů údržbaře.
 

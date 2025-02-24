@@ -31,6 +31,7 @@
 - Zapnutí: Připojte automat zpět k elektrické síti a zapněte jej.
 
 ***Uklízečka - manuál***
+
 Údržba:
 
 - Před čištěním, pokud je to možné, přístroj vypněte.

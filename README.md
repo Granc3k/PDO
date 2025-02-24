@@ -30,3 +30,25 @@
 - Uzavření automatu: Po doplnění všech surovin zavřete a zajistěte přední panel automatu.
 - Zapnutí: Připojte automat zpět k elektrické síti a zapněte jej.
 
+***Uklízečka - manuál***
+
+Údržba:
+
+- Před čištěním, pokud je to možné, přístroj vypněte.
+- Dávejte pozor na horké části a případně používejte ochranné rukavice.
+
+Denní čištění:
+- Vyprázdněte a vyčistěte odkapávací mřížku a zásobník na odpad.
+- Otřete vnější plochy kávovaru vlhkým hadříkem.
+- Zkontrolujte hladinu vody (pokud je to vaše povinnost) a případně doplňte.
+Týdenní čištění:
+- Otřete místa, kde se mohou hromadit nečistoty, dle pokynů údržbaře.
+
+Vyvarujte se:
+- Zasahování do technických nastavení ani do vnitřních částí, ke kterým máte omezený přístup.
+- Používání agresivních čisticích prostředků – dodržujte doporučené produkty.
+- Pokud se objeví něco neobvyklého, neprovádějte zásahy, ale nahlaste to.
+
+Nahlášení závad:
+
+- V případě jakýchkoli problémů, závad nebo neobvyklých zvuků ihned kontaktujte údržbaře nebo nadřízeného.

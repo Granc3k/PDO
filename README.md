@@ -1,6 +1,6 @@
 # PDO dokumentace - Kávovar
 
-[!qrcode](qrcode.png)
+![qr code](qrcode.png)
 
 ## Zákazník - manuál
 - Přijít k automatu

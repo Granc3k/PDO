@@ -5,7 +5,9 @@
 - Stisknout zelené tlačítko na displeji pro zahájení výběru nápoje
 - Volitelné: Výběr dávkování cukru v nápoji
 - Vybrat nápoj
-- Zaplatit přiložením platební karty/zařízení s NFC platbami k displeji kávovaru.
+- Placení:
+    - *Kartou:* Vyčkejte na audio zpětnou vazbu a po výzvě přiložte platební kartu/Zařízení s NFC platbami na displej zařízení
+    - *Hotově:* Pokud to model automatu povoluje, vkládejte mince do vyhrazeného otvoru automatu. Povolené mince jsou 1kč, 2kč, 5kč, 10kč, 20kč, 50kč. U této metody placení následně odeberte zbytkovou vrácenou hotovost.
 - Počkat na vyzvání pro odebrání nápoje
 - nadzvednout průhledná dvířka a vzít si svůj kelímek
 - Volitelné: Vzít si plastové víčko pro možnost vzít si nápoj bezpečně s sebou

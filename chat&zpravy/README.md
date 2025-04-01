@@ -1,4 +1,7 @@
+![qr code](qrcode.png)
+
 ## Chatovací aplikace
+
 
 ## Kritéria
 - Šifrování

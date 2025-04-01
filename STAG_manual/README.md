@@ -1,3 +1,5 @@
+![qr code](qrcode.png)
+
 # Dokumentace ke stagu
 
 ## Studenti

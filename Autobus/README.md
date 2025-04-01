@@ -15,7 +15,7 @@
 ![step_2](./sources/step_2.jpg)
 
 ## Krok 3 
-- Vyplníme název zastávky/města/zvolíme naši polohu. (Pro demonstraci v tomto návodu byla vybrána zastávka autobusového nádraží Liberec)
+- Vyplníme název zastávky/města/zvolíme naši polohu. (Pro demonstraci v tomto návodu byla vybrána zastávka autobusového nádraží Liberec. Pokud chcete zvolit přímo jen autobusy následujte [Krok 7](#krok-7))
 
 ![step_3](./sources/step_3.jpg)
 
@@ -32,7 +32,7 @@
 ![step_6](./sources/step_6.jpg)
 
 ## Krok 7 
-- Zvolte přímá spojení pro přímý autobus do Prahy. Můžete zde volit další filtry, ale pro účely demonstrace nejsou validní.
+- Zvolte přímá spojení pro přímý autobus do Prahy. Můžete zde volit další filtry jako například typ spoje.
 ![step_7](./sources/step_7.jpg)
 
 ## Krok 8
